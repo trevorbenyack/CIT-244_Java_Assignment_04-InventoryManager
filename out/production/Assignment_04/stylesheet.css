@@ -1,0 +1,4 @@
+#mainPane {
+    -fx-min-width: 700px;
+    -fx-min-height: 500px;
+}
